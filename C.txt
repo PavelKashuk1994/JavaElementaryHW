@@ -1,2 +1,0 @@
-first line C file main repo.
-second line C file main repo.
